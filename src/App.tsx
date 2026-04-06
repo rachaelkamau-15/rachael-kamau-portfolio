@@ -182,8 +182,8 @@ export default function App() {
               RACHAEL <span className="text-accent">KAMAU</span>
             </h1>
             <p className="text-xl md:text-2xl font-serif italic text-white/80 max-w-2xl mx-auto mb-10 leading-relaxed">
-              Engineering Secure, High-Performance Digital Solutions. <br className="hidden md:block" />
-              Software Developer & Cybersecurity Specialist specializing in Full-Stack Innovation and Multi-Cloud Protection.
+              Full-Stack Developer, Cybersecurity Specialist & Multi-Cloud Developer <br className="hidden md:block" />
+
             </p>
             <div className="flex flex-col sm:flex-row items-center justify-center gap-4">
               <a 
@@ -211,7 +211,7 @@ export default function App() {
             
             <div className="space-y-4 mb-12">
               <p className="text-text-muted leading-relaxed text-lg">
-                I am a results-driven <span className="text-text-main font-bold">Software Developer</span> and <span className="text-text-main font-bold">Cybersecurity Specialist</span> dedicated to building secure, high-performance digital solutions. I combine full-stack development expertise with strong cloud security practices to create scalable, resilient applications where security is embedded from the ground up, not added as an afterthought.
+                I am a results-driven <span className="text-text-main font-bold">Software Developer</span> , <span className="text-text-main font-bold">Cybersecurity Specialist </span> and <span className="text-text-main font-bold">Cloud Security Specialist</span> dedicated to building secure, high-performance digital solutions. I combine full-stack development expertise with strong cloud security practices to create scalable, resilient applications where security is embedded from the ground up, not added as an afterthought.
               </p>
               <p className="text-text-muted leading-relaxed text-lg">
                 With experience spanning mobile application development and multi-cloud infrastructure security, I deliver end-to-end solutions that balance innovation, performance, and protection. My focus is on helping organizations leverage technology confidently, knowing their systems are both robust and secure.
